@@ -6,8 +6,6 @@ This is a **Java Full-Stack Web Application** for an **online fruit store** wher
 ## 🛠️ Technologies Used  
 ### **Backend:**  
 - Java (J2EE) - Servlets & JSP  
-- Spring Boot (if applicable)  
-- Hibernate (for database interactions)  
 - MySQL (Database)  
 - JDBC (for database connectivity)  
 - Apache Tomcat (Server)  
